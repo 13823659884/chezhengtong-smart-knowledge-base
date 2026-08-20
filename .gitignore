@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+*.log
+同事交付_API配置_含密钥.md
+.DS_Store
+Thumbs.db
+
